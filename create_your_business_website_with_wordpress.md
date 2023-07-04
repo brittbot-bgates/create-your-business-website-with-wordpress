@@ -20,6 +20,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#introduction">Introduction</a>
 ## <a href="#chapter1">Chapter 1: Purchase A Domain Name & Web Hosting</a>
 ## <a href="#chapter2">Chapter 2: Install The Proper SSL Certificate</a>
+## <a href="#chapter3">Chapter 3: Secure Your WordPress Installation</a>
 
 ---
 
@@ -419,3 +420,69 @@ Warning: You may not get the best prices by buying the certificates directly fro
 Your web hosting company may offer free Let’s Encrypt SSL certificates and you may want to use these instead. While you can use these certificates they should only be used on personal sites (like blogs).
 
 Why? Here’s [the group’s explanation](https://letsencrypt.org/docs/faq/#what-services-does-let-s-encrypt-offer) about the certificates they issue: “Let’s Encrypt is a global Certificate Authority (CA). We let people and organizations around the world obtain, renew, and manage SSL/TLS certificates. Our certificates can be used by websites to enable secure HTTPS connections. Let’s Encrypt offers Domain Validation (DV) certificates. We do not offer Organization Validation (OV) or Extended Validation (EV) primarily because we cannot automate issuance for those types of certificates.”
+
+# [Chapter 3: Secure Your WordPress Installation](#chapter3)
+
+All day everyday individuals attack your website. And not only your website but also your hosting provider. Who are these people? Usually [hackers](https://en.wikipedia.org/wiki/Hacker), [crackers](https://en.wikipedia.org/wiki/Security_hacker#Cracker), scammers, or [script kiddies](https://en.wikipedia.org/wiki/Script_kiddie). So how can you keep them out of your website and protect your WordPress installation. I give you several options and some tools to combat these bad actors while protecting your website.
+
+## Start At Your Web Hosting Provider
+
+The first place you should start when it comes to protecting your website is securing your web hosting account. If a bad actor gets control over it, they can delete your website or hold it ransom. Others could use your account to buy additional hosting space to send spam mail or run attacks against others, like a [DDoS attack](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/).
+
+So how do you secure your web hosting account?
+
+First, you need to use an original password. If you a reused password, meaning one you used for another website, stop reading now and change the password immediately! Hackers have access to password lists from previous breaches. They try these credentials at other websites to see if they are reused. [Unfortunately, they are](https://pixelprivacy.com/resources/reusing-passwords/).
+
+A great way to develop an original password is to use a password manager. I use [1Password](https://en.wikipedia.org/wiki/Password_manager) now to not only save and manager my passwords, but to generate new secure passwords.
+
+Next, you need to enable [two-factor authentication](https://www.cnet.com/how-to/how-and-why-to-use-two-factor-authentication/) (2FA) on your account. This adds another layer of protection even if a hacker gets your password because 2FA requires a code or phrase. And this code or phrase changes constantly. Depending on your web hosting company, you can use one of the following 2FA methods:
+* SMS text message
+* Authentication program (Authy or Google Authenticator)
+* Keyfob/security key
+
+SMS text message is basic protection that can be intercepted by bad actors. Authentication programs like Authy is much better, however this can be defeated too if a hacker performs a [SIM-swap](https://en.wikipedia.org/wiki/SIM_swap_scam). Yet, this can be uncommon as it takes quite a bit of work by a bad actor to perform a successful SIM-swap. The best protection is a keyfob (also called a security key). Your web hosting provider may or may not allow this type of 2FA so please check with them before buying a keyfob. If they do and need suggestions about which one to get, [The Verge wrote a good article comparing the various ones](https://www.theverge.com/2019/2/22/18235173/the-best-hardware-security-keys-yubico-titan-key-u2f).
+
+Finally, only allow certain individuals access to your web hosting account if you work with a team of people. And each user should have their own password. Do not allow multiple people to use one account.
+
+The first reason behind this is you can’t tell who accessed the account. So if there is a security incident you can’t determine which individual did it. The second reason is if one user account gets hacked you can sign into another to lock out the hacked user account.
+
+## Securing Your WordPress Admin Account
+
+Securing your WordPress administrative account is key. If a hacker or scammer is able to take control over this account, again they can delete your website or deface it or hold it for ransom.
+
+So how can you secure it?
+
+Just like with your web hosting account, use an original password for the WordPress admin account. Next, enable 2FA on that account. With self-hosted WordPress, you will have to use a security plugin like [WordFence](https://www.wordfence.com/) to do so.
+
+Also consider changing the login URL. It’s widely known to add “/wp-admin/” or “wp-login.php” to the end of URL to access the WP login page. From there, hackers can try to login using the default username and password. The best way to change your login URL is to use a plugin. [Change wp-admin login](https://wordpress.org/plugins/change-wp-admin-login/) is a good choice and the one I use.
+
+Speaking of the default username, WordPress provides “admin” which you shouldn’t accept. Type in a different username. However, if you use “admin” you can change it by following the instructions on [this site](https://themeisle.com/blog/change-wordpress-usernames/).
+
+## WordPress Admin Usernames To Avoid
+
+When you’re configuring your WordPress installation you’ll be asked to provide an admin username. Do not use any of the following as your username:
+* admin
+* demo
+* test
+* login
+* editor
+
+These are well-known usernames by hackers so they try these names first.
+
+## How To Create A Good WordPress Admin Username
+
+I know some people who use password generators to create a random string of characters and use that as an username. This is very secure yet it’s hard to remember. Plus, if you are managing multiple WordPress sites, choosing this option can make administration more difficult.
+
+Other people use their first name or a combination of their first and last name as their admin username. While this is a fine strategy, people can still guess it if your name is associated with the website. I use my name on my personal website. Thus, I don’t use any part of my name in my admin username.
+
+Finally, I know people who use nicknames as their WordPress admin username because it’s easy to remember. This can work if people don’t know that individual goes by a nickname.
+
+## Enable Notifications And/Or Alerts For Different Methods
+
+I highly suggest when it comes to protecting your website you must enable notifications and/or alerts for whenever a person logs in correctly or incorrectly. This way you know immediately when someone logged into the web hosting company or the WordPress administrative account.
+
+Also, you should send these alerts through different methods, such as email and text message. That way if a hacker gets control of your website and your email, you still can get notifications through another avenue.
+
+I use WordFence Security for my websites and I get emails whenever someone successfully and unsuccessfully logs in. The same happens whenever I login or make any change or order through my web hosting company.
+
+How to set this up is going to depend on your hosting company. Review their “Knowledge Base” or “Help” section for assistance.
