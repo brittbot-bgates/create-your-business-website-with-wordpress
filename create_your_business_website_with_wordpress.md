@@ -16,7 +16,17 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 
 ---
 
-# Why WordPress?
+# Introduction
+
+## About The Author
+
+Hello, my name is Brittany Gates and I’m a data center aficionado and creative writer. I’ve worked in the IT Industry for fifteen years now. By day I work in a data center for a Silicon Valley company and by night I write. Oh, and I also run a few websites built with WordPress.
+
+My history with WordPress is over a decade old now. I started using it around 2007, and over the years I’ve watched the software improve not only in features but also in its appearance and security.
+
+This guide allows me to use all my skills as I’m going to teach you how to create a WordPress website for your business. This won't be short nor easy process because building a website is time-consuming and difficult at certain points. Which is why so many business owners hire a company or an agency. 
+
+## Why WordPress?
 
 You’re probably wondering why I choose WordPress to build my websites. And why I recommend it to everyone who ask me what software or framework to use to create a website. Especially when there are are cloud-based services like Wix and Squarespace. Well, it’s because I love WordPress and open source software. As the tagline states on WordPress' website: "Create a place for your business, your interests, or anything else—with the open source platform that powers the web[wordpress.org](wordpress.org).”
 
@@ -66,7 +76,7 @@ Finally, if you need to share files (like documents) WordPress allows for that t
 
 WordPress made it very simple to create blog posts and pages with the new WordPress Editor / Gutenberg update in 2018. However, this update divided users during its beta because it introduced major changes on how to create and edit content. And when new editor became the default in WordPress users were highly upset. However, you can re-enable the Classic Editor via a plugin if you so choose. As for me, I really enjoy using the Block Editor. It simplifies the addition of text, headings, images, video, and now even podcasts into your blog posts and/or pages.
 
-# Purchase A Domain Name & Web Hosting
+# Chapter 1: Purchase A Domain Name & Web Hosting
 
 In this step I discuss what a domain name is, how to buy one, and how to choose the proper web hosting provider for your website. This step, in my opinion, is the most important part of your website because you must choose a domain name that is not only easy to remember but is not too long. In addition, the web hosting company you choose can make or break the performance of your site.
 
@@ -325,3 +335,80 @@ If you don’t go with my web hosting provider recommendation you’ll need to f
 * SiteGround. 
 
 In my opinion, Bluehost is expensive, DreamHost is the best economical choice, and SiteGround is also affordable but their plans' features can be scant when compared to DreamHost. Out of the three I would choose DreamHost.
+
+# Chapter 2: Install The Proper SSL Certificate
+
+After visiting dozens of small business websites for a project I worked on this past year I discovered too many of them do not use SSL certificates on their website, or only parts of them. The sites that did the latter only secured their sign-in pages and/or their cart/checkout page. Although this is fine, your entire website needs protection.
+
+## What Is An SSL Certificate?
+
+A Secure Socket Layer (SSL) Certificate encrypts traffic, transforming it from HTTP (unsecured) to HTTPS (secured). Also, this certificate protects information, especially sensitive material (like credit card numbers or protected health information) from bad actors, like hackers.
+
+This certificate protects your website from these bad actors through [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography). Think of this protection as your house address. This is public information and anyone can come to your house. Thus, your public key. However, there is a lock on your door which keeps those individuals from entering your house. Only you can enter your house with the proper key. Hence, your private key.
+
+When you buy a certificate to secure your website, you have to create a public and private key. Then when your website transmits data one part of the transmission is encrypted with the public key, and the other part is decrypted with the private key.
+
+This only a quick overview. If you would like to learn more about SSL certificates please view this website [here](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/).
+
+## Why You Need SSL Certificates For Your Entire Website
+
+Your entire website needs a SSL certificate because it affects your Search Engine Optimization (SEO) rankings. Google takes web security seriously and gives websites with better security higher rankings in their searches over non-secured websites. [Neil Patel did an extensive write-up on his website showing the data proving Google favors websites employing entire website security](https://neilpatel.com/blog/does-a-ssl-certificate-affect-your-seo-a-data-driven-answer/).
+
+Also, having a SSL certificate installed for your entire website puts your visitors’ minds at ease. If someone visits your website and sees the homepage isn’t secure, and they can see that from the browser bar easily, then that visitor may be less likely to order your product or service. I know I would.
+
+## SSL Certificates Are Inexpensive And Provide Good ROI
+
+[You can get SSL certificates for free](https://letsencrypt.org/) or you can buy them for a fair price. I buy my SSL certificates from Namecheap and I recommend them.
+
+Even if you have a buy an expensive certificate they provide a good return on investment. The ones I get through Comodo provide warranties. Meaning if the company fails to properly validate my certificate during the course of business, and that leads to loss or money or business, then I can submit a warranty claim for compensation. Namecheap explains more in [their article](https://www.namecheap.com/support/knowledgebase/article.aspx/885/38/ssl-certificate-warranty/).
+
+Finally, when a visitor sees your website is secure, it makes them feel good, and can lead to them spending money on your goods and/or services.
+
+## The Types Of SSL Certificates Available For Purchase
+
+There are three types of SSL certificates you can purchase for your website:
+* Domain Validated (DV)
+* Organization Validated (OV)
+* Extended Validation (EV)
+
+While each certificate provides the same type of encryption, they differ on how the security companies verify the organization before they issue the certificate.
+
+Domain Validated has the least checks done as the security organization only checks if the owner has the right to use a specific domain name. This is usually done by having the owner add a specific Domain Name System (DNS) entry through their web hosting company. The security company doesn’t check to make sure the owner is the actual owner, or says who he/she says he/she is.
+
+The reason DV certificates are used because they are inexpensive, good for personal use like blogs, and they are issued almost instantly.
+
+As for Organization Validated certificates the security company checks that the owner has the right to use the domain name and vets some of the information about the organization or business. And that information is displayed to visitors when they check the security icon in their browser. This gives visitors a better since of security as to who their private information is going to.
+
+Unlike DV certificates, OV ones take more time to be issued because the security company has to vet the applicant.
+
+Finally, Extended Validation certificates acts just like the OV but the security company vets the owner thoroughly. They check the legal, physical, and operational existence of the business. Then they verify that the identity matches those on official records. Finally the security company verify that the owner or organization initiated the certificate issuance.
+
+# Which One Should You Pick For Your Business Website?
+
+For personal websites like blogs I would go with a DV as it’s inexpensive (or free if you choose to use Let's Encrypt). That’s what I use for my blogs and other websites that don’t have a login portal for customers.
+
+If you are building an ecommerce website I highly suggest you choose either a OV or EV certificate. Although these will cost more and require you to submit documentation regarding the ownership of your business, they can build higher trust within your visitors upon landing on your site. Also, these certificates provide higher warranties. Depending on where you purchase your SSL certificates warranties range from $100,000 to over $1,000,000.
+
+For my ecommerce store I went with an OV certificate. Although I had to submit a form online about my business so the security company could validate it the process wasn’t difficult. You just have to make sure your business or organization is registered in some well-known databases beforehand. If you don’t, it will delay the issuance of your certificate.
+
+Finally, if you’re building a website that will have a login portal for customers you also want to invest in a OV or EV certificate. Again, you need to encrypt customer’s sensitive data, like login credentials, so bad actors can’t grab them.
+
+## Where Can You Buy SSL Certificates?
+
+You can purchase SSL certificates from your web hosting company, but you can also purchase them directly from security companies. I highly suggest the former option because it makes installing the certificate easier. And you’ll probably get the best price.
+
+I use and recommend Namecheap because their prices are fair. And you will save a good amount of money if you purchase a multi-year certificate.
+
+If you don’t want to go through your web hosting company or my recommendation then you can buy certificates from the following:
+* [ComodoCA](https://ssl.comodo.com/)
+* [GlobalSign](https://shop.globalsign.com/en/ssl-tls-certificates)
+* [Digicert](https://www.digicert.com/)
+* [Sectigo](https://sectigo.com/products)
+
+Warning: You may not get the best prices by buying the certificates directly from these companies. And you will be on your own installing it onto your website. Your web hosting company may have instructions how to do that or may not. Thus, you may have to ask the certification provider for installation instructions.
+
+## Can You Use Let’s Encrypt Certificates?
+
+Your web hosting company may offer free Let’s Encrypt SSL certificates and you may want to use these instead. While you can use these certificates they should only be used on personal sites (like blogs).
+
+Why? Here’s [the group’s explanation](https://letsencrypt.org/docs/faq/#what-services-does-let-s-encrypt-offer) about the certificates they issue: “Let’s Encrypt is a global Certificate Authority (CA). We let people and organizations around the world obtain, renew, and manage SSL/TLS certificates. Our certificates can be used by websites to enable secure HTTPS connections. Let’s Encrypt offers Domain Validation (DV) certificates. We do not offer Organization Validation (OV) or Extended Validation (EV) primarily because we cannot automate issuance for those types of certificates.”
