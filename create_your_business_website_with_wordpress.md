@@ -23,6 +23,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter3">Chapter 3: Secure Your WordPress Installation</a>
 ## <a href="#chapter4">Chapter 4: How To Setup A WordPress Development Environment</a>
 ## <a href="#chapter5">Chapter 5: How To Build Your Site And Hide It From Visitors</a>
+## <a href="#chapter6">Chapter 6: Find A WordPress Theme That Fits Your Industry</a>
 
 ---
 
@@ -532,3 +533,49 @@ Choose this option if you don’t like the Coming Soon page provided by your hos
 The plugin I use that offers these features is [LightStart - Maintenance Mode, Coming Soon and Landing Page Builder](https://wordpress.org/plugins/wp-maintenance-mode/). It allows you to create a page telling visitors your site is down for maintenance or a custom Coming Soon page. And you still have access to the admin dashboard so you can configure your site and add content.
 
 The plugin’s settings allows you to display a countdown on your site which is a great way to buy excitement from your visitors. Or you can create a subscription form so you can collect the contact details from your interested visitors so you can notify them when your site is live. Finally, you can enable the chatbot to “speak” with your visitors using a set script you can create. Or use the pre-defined template provided by the plugin.
+
+# [Chapter 6: Find A WordPress Theme That Fits Your Industry](#chapter6)
+
+One of the first moves you should make when you start customizing your website is choosing the WordPress theme that fits your industry.
+
+This step is going to be a bunch of trial and error because you may find a theme that looks awesome in the demo but when you install it and start customizing the theme doesn’t look the way you though it would. Or the theme’s customizations are limited. This is especially true of free theme.
+
+## Use Trusted Sources To Download WordPress Themes
+
+Before we get started in this chapter I want to warn you about websites offering free downloads for WordPress themes. And there are websites offering popular non-free themes for sale at deep discounts. You should never download any themes from these sites because they may have tampered with the theme to include malware. And these sites are usually selling stolen licenses.
+
+Thus, when you install a tampered theme your site will most likely become infected. This could give a hacker the ability to control your site or even steal your data. As for stolen licenses, you are in possession of stolen property which is illegal. Also, the theme installation files you get with the stolen license may or may not work properly. Or could harbor malware too.
+
+So who can you trust when it comes to downloading themes? [The official WordPress website](https://wordpress.org/themes/).
+
+A theme listed in their directory has been submitted to them and reviewed by their team using “Theme Unit Test data.” [Their review process is strict](https://make.wordpress.org/themes/handbook/review/) so bad actors trying to upload infected themes are not going to pass.
+
+If you want a non-free theme then check out WordPress’ “Commercial Themes” [here](https://wordpress.org/themes/commercial/).
+
+## Should You Buy A Theme?
+
+There are thousands of free themes available for download on WordPress developed for various industries or for certain requirements. Yet, you will quickly discover that many of these free themes aren’t exactly “free.” These themes lock certain features and require you to purchase a yearly license to unlock them.
+
+So should you buy a theme?
+
+Buying a theme, sometimes marketed as a “Premium Theme,” can be a good investment of your money. Mostly because they are designed to make creating a website easier. And these themes have features to improve the appearance of your site. Also, by purchasing these themes you usually get priority technical support and get new updates for a limited time (usually six months or a year).
+
+When I was working at a startup that developed and maintained WordPress websites for customers we used the [X theme](https://theme.co/x). It currently retails for $79 and our customers were happy to pay the price due to how well their sites looked.
+
+So if you want to go this route I suggest you research the Premium Themes available on [Theme Forest](https://themeforest.net/category/wordpress) (also called Envato Market.) Yes, in the previous section I provided a link to the official WordPress Commercial Themes but Theme Forest is a legitimate company too. And they check all submitted themes for quality too.
+
+You can filter themes based on a particular category (like Corporate, ecommerce, Retail, etc.) and you can view themes sorted by price. The website is great because it shows you the weekly sales of each theme, along with its rating.
+
+As for the prices, Premium themes will range in price from $20 to $80. Depending on the developer, you may purchase the theme through a yearly subscription or a one-time cost.
+
+## How To Find A Theme That Fits Your Industry
+
+If you are searching for themes on the [official WordPress website](https://wordpress.org/themes/) then you can search for themes in two ways:
+* Search box
+* Feature Filter
+
+The search box allows you to search for themes using various terms. This avenue works best if you use specific search terms like “shop,” “retail,” or “restaurant.” Mostly because themes are usually named or titled with the industry or category designations.
+
+The Feature Filter allows you to search for specific layouts, features, or subjects. For example: You only want to use a grid layout instead of columns and this filter will return themes fitting that layout. If you need certain features like accessibility, full width, or translation support then Feature Filter helps you find those themes. Finally, the subject filter will only show themes in particular categories like ecommerce or food & drink.
+
+Now, if you’re searching for themes on Theme Forest you only have access to a search box and browsing themes by category.
