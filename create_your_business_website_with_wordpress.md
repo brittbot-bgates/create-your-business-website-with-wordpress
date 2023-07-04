@@ -25,6 +25,8 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter5">Chapter 5: How To Build Your Site And Hide It From Visitors</a>
 ## <a href="#chapter6">Chapter 6: Find A WordPress Theme That Fits Your Industry</a>
 ## <a href="#chapter7">Chapter 7: Install These Plugins To Make Your Site Successful</a>
+## <a href="#chapter8">Chapter 8: Test Your Website</a>
+## <a href="#chapter9">Chapter 9: </a>
 
 ---
 
@@ -795,3 +797,50 @@ While this feature is nice I would suggest to use Google Analytics instead becau
 [MonsterInsights](https://www.monsterinsights.com/) states it’s the “best WordPress analytics plugin” and it does have a huge install base of over 3 million. Just like ExactMetrics you will get a dashboard that shows your stats without having you to visit the Google Analytics website. The plugin also provides real-time stats, Ecommerce tracking, affiliate link tracking, and much more.
 
 Again, like ExactMetrics, you’re going to have to pay for these features. The “Plus” plan costs $199.00 and provides many standard features most website owners will need. You can upgrade to the “Plus” plan for $399.00 for advanced features (like Ecommerce support) and to get additional licenses.
+
+# [Chapter 8: Test Your Website](#chapter8)
+
+You finish building your website and want to publish it online so the world can see it. While I understand your enthusiasm don’t rush your website into production just yet. Why not? Because you haven’t tested your site.
+
+What are you testing?
+* All the functionality (like links, forms, chatbot, etc.) works as it should
+* The website displays properly on desktop and mobile devices
+* The performance of the site
+
+So how do you test your website?
+
+*Note: If you created your website in a development environment then you can skip the Create A Staging Website section.*
+
+## Create A Staging Website
+
+A staging website is an exact replica of your website that’s hidden from the public. This allows you to perform tests without worry because if you crash it, or if your design isn’t showing up properly, you don’t have to concern yourself if anyone saw it.
+
+How to create a staging website depends on your web hosting company. With Namecheap they use [Softaculous](https://softaculous.com/) and they wrote a [tutorial](https://www.softaculous.com/docs/enduser/create-staging/) on how to create a staging website.
+
+When I create mine I always keep the same domain name but add “/staging” to the end of the URL. That way I can tell which site is my production version and which is the staging. I also suggest you put your staging site in a different directory than your production site and name it “staging.” Again, you don’t want to get mixed up and make changes to the wrong WordPress installation.
+
+Finally, the database name is going to be auto-populated for you and it’s different than the database for your production site. However, you can always change the name if you want. Just make sure you follow the correct syntax (usually wpXXX where each “X” is a number).
+
+If your web hosting company isn’t using Softaculous then review their “Help” section or “Knowledge Base” articles to see which software they’re using. Also, those sections can provide instructions on how to create a staging website too.
+
+## Start Testing
+
+The first item to test is verifying all the functionality on your website. The best way to do this is to follow a “Website Launch Checklist.” There are plenty of extensive ones online and I suggest you use at least two so you can verify you aren’t missing any items. [This site](https://websitesetup.org/website-launch-checklist/) offers a great checklist along with [this one](https://blog.hubspot.com/marketing/website-launch-checklist) and [this site](https://themeisle.com/blog/website-launch-checklist/).
+
+You will need to repeat some of these test on different devices to verify the responsiveness. More and more mobile devices use the Web each day, yet website design usually happens on a desktop or a laptop with large screens. Hence, we get sucked into developing our sites for larger screens but not little ones. However, WordPress themes are developed with responsive features.
+
+You can test for this manually, meaning you will check your website on different sizes of devices. However, this may not work well at all if you don’t have access to multiple devices. Instead, look into using a responsiveness test website. Here’s a short list of providers:
+* [BrowserStack](https://www.browserstack.com/) (requires a subscription)
+* [Responsinator](https://www.responsinator.com/) (free)
+* [ViewPort Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm?hl=en) (Chrome Extension)
+* [Cross Browser Testing](https://crossbrowsertesting.com/) (requires a subscription)
+
+Finally, you want to check the performance of your website. Because if it loads slow visitors will abandon your site and you’ll lose sales.
+
+There are several websites you can use to test your performance. And these still will provide actions for you to take to improve said performance:
+* [Pingdom](https://tools.pingdom.com/) (free)
+* [GTmetrix](https://gtmetrix.com/) (free)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) (free)
+* [WebPageTest](https://www.webpagetest.org/) (free)
+
+After you finish testing and applying any fixes or improvements needed, then you can publish your website!
