@@ -26,7 +26,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter6">Chapter 6: Find A WordPress Theme That Fits Your Industry</a>
 ## <a href="#chapter7">Chapter 7: Install These Plugins To Make Your Site Successful</a>
 ## <a href="#chapter8">Chapter 8: Test Your Website</a>
-## <a href="#chapter9">Chapter 9: </a>
+## <a href="#chapter9">Chapter 9: Publish Your Website</a>
 
 ---
 
@@ -844,3 +844,31 @@ There are several websites you can use to test your performance. And these still
 * [WebPageTest](https://www.webpagetest.org/) (free)
 
 After you finish testing and applying any fixes or improvements needed, then you can publish your website!
+
+# [Chapter 9: Publish Your Website](#chapter9)
+
+You’re at the finish line! You can publish your website so the world can view it. This is a great achievement, honestly, and you should give yourself a pat on the back or a high-five. Heck, maybe even a pizza party!
+
+I’ve mentored individuals who tried to build their own websites who gave up because 1) the steps involved was too daunting for them, and 2) they didn’t want to handle the responsibility of maintaining a website.
+
+## Publish Changes From Your Development Environment To Your Production Website
+
+If you created your website using a local development environment and applied any fixes and/or improvements on it after testing then you can transfer these files onto your production website.
+
+There are two ways to do so:
+* Follow the instructions provided by the development environment software
+* Use a WordPress plugin
+
+For a great step-by-step guide with images check out [this article](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/) from WPBeginner.
+
+## Publish Changes From Your Staging Website To Your Production Website
+
+If you created a staging website on the server hosting your production website then you can push the staging website to live.
+
+With Softaculous you can follow [these instructions](https://www.softaculous.com/docs/enduser/push-to-live/) which will handle all the work for you. However, you do need to make the decision whether you choose the “Default” or “Customize” option. The “Default” option replaces all the files with ones from the staging website, including the database. Thus, if you have any content on the production website you want to keep then you want to run a backup first.
+
+Now if your web hosting company doesn’t use Softaculous then follow the instructions for the software used so you can push the changes from staging to your production site.
+
+## What If You Didn’t Use Either A Development Environment Or A Staging Website?
+
+If you built your site using your production files, meaning you created everything in the initial installation your web hosting company installed for you, then the only work you have to do is disable the maintenance mode. Then your site is live for the public to see.
