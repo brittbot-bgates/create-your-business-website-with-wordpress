@@ -22,7 +22,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter2">Chapter 2: Install The Proper SSL Certificate</a>
 ## <a href="#chapter3">Chapter 3: Secure Your WordPress Installation</a>
 ## <a href="#chapter4">Chapter 4: How To Setup A WordPress Development Environment</a>
-## <a href="#chapter5">How To Build Your Site And Hide It From Visitors</a>
+## <a href="#chapter5">Chapter 5: How To Build Your Site And Hide It From Visitors</a>
 
 ---
 
