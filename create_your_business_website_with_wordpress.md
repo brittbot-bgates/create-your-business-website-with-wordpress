@@ -1,0 +1,327 @@
+# Create Your Business Website With WordPress
+
+# Brittany Gates
+
+---
+
+Copyright © 2021 Brittany Gates
+
+The advice and strategies found within may not be suitable for every situation. This work is sold with the understanding that neither the author nor the publisher are held responsible for the results accrued from the advice in this book.
+
+All rights reserved. No portion of this book may be reproduced in any form without permission from the publisher, except as permitted by U.S. copyright law. For permissions contact:
+
+Brittany Gates | [support@bcgates.com](mailto:support@bcgates.com)
+
+Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/wordpress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+---
+
+# Why WordPress?
+
+You’re probably wondering why I choose WordPress to build my websites. And why I recommend it to everyone who ask me what software or framework to use to create a website. Especially when there are are cloud-based services like Wix and Squarespace. Well, it’s because I love WordPress and open source software. As the tagline states on WordPress' website: "Create a place for your business, your interests, or anything else—with the open source platform that powers the web[wordpress.org](wordpress.org).”
+
+Also, its mission is simple: It is designed for everyone, is open-source, and is welcoming and inclusive. Thus, anyone can share their thoughts, feelings, or create a business with WordPress.
+
+WordPress was created in 2003 by Mike Little and Matt Mullenweg and is operated by [Automattic](https://automattic.com/). While WordPress was originally created for blogging you can use it now to create various types of websites. And this versatility makes it a great choice for businesses.
+
+It’s also a Content Management System [CMS](https://kinsta.com/knowledgebase/content-management-system/). This system allows you to not only create digital content (like blog posts, music files, videos, etc.) but modify them. Also, WordPress can also be considered a Web Content Management (WCM) system because it provides the ability for individuals to create and/or add images, photos, music, videos, and much more.
+
+CMS is broken up into two parts:
+* Content Management Application (CMA) 
+* Content Delivery Application (CDA) 
+
+The CMA allows inexperienced users to create, update, or delete content from a website without the aid of experienced professional. Years ago you would have to hire a Webmaster or a Web Developer for this type of work.
+
+The CDA does all the heavy lifting in the background because it takes all the pictures, text, and other information you supplied and puts it all together. Thus, it creates everything you see on the website. Finally, the CDA has the job of updating the website.
+
+WordPress is not only the only CMS used to build websites, and its competitors are Drupal, Joomla, and ModX. However, WordPress has the most market share out of all these systems. At the time of publication 42% of the Web uses WordPress.
+
+I wrote quite a bit to convince you but now I want to discuss some of WordPress’ benefits in more detail.
+
+## Its Popularity Created A Vast Ecosystem
+
+I already discussed the large market share WordPress has for website creation. And due to that popularity other developers created a vast ecosystem over time to extend the capabilities of the software. These individuals created thousands of free and non-free themes and plugins for the public to use. These themes and plugins allow WordPress to be transformed into a retail online store or a membership website. Because these developers saw successful from their labors they are fully invested in improving WordPress.
+
+I will go into more detail about these themes and plugins later on in the guide. And I’ll tell you which ones are critical to the success of your site, and others that are good to have because they provide additional features.
+
+## One-Click Auto-Install Makes Installation A Breeze
+
+When I started using WordPress back in 2007 the installation was difficult, to say the least. I followed the “Basic Instructions” posted here. If you didn’t follow these instructions or weren’t tech savvy you would run into issues. It was common to install the software improperly or connect your database incorrectly. And many people, myself included, edited their core WordPress files incorrectly, causing their sites to crash.
+
+Yet, with “Automated Installation” (also called one-click installation) normal now with various web hosting companies, beginners can install WordPress within minutes by filling in a few details. As a result of this, I can get installations up and running in a quick manner. This is fantastic when I need to spin up a site for testing.
+
+## The WordPress UI Is Intuitive
+
+WordPress’ User Interface (UI) is intuitive now. The side menu has all of the functions you need, such as “Posts” and “Media,” right there so you don’t have to search for them. In addition, each function’s name tells you what it exactly does. “Posts” allow you to create a blog post. “Pages” is when you want to create a page on your site. “Media” contains pictures, videos, music, and other media.
+
+## Enhanced Blogging & Content Creation Capabilities
+
+WordPress is still the best CMS to use for blog creation. Yes, there sites like Medium and Tumblr, but those sites don’t offer the plugins or configurations this software offers.
+
+Even though you can create websites with WordPress, its focus was and is blogging. And that’s improved drastically over the years. Writing posts is a breeze! I can add animated GIFs with a few clicks. When I want to slip in headings and sub-headings those are also just a few clicks of your mouse or trackpad. Finally, when I want to add a “Featured Image” (the image that shows up above the blog post) or an image within the body of my text, I can upload one and then insert it in under a minute.
+
+Finally, if you need to share files (like documents) WordPress allows for that too. All you have to do is upload the files using their software and add them to your site with a few clicks of your mouse or trackpad.
+
+## WordPress Block Editor Works Well Now
+
+WordPress made it very simple to create blog posts and pages with the new WordPress Editor / Gutenberg update in 2018. However, this update divided users during its beta because it introduced major changes on how to create and edit content. And when new editor became the default in WordPress users were highly upset. However, you can re-enable the Classic Editor via a plugin if you so choose. As for me, I really enjoy using the Block Editor. It simplifies the addition of text, headings, images, video, and now even podcasts into your blog posts and/or pages.
+
+# Purchase A Domain Name & Web Hosting
+
+In this step I discuss what a domain name is, how to buy one, and how to choose the proper web hosting provider for your website. This step, in my opinion, is the most important part of your website because you must choose a domain name that is not only easy to remember but is not too long. In addition, the web hosting company you choose can make or break the performance of your site.
+
+I highly recommend you do not skimp on the costs when it comes to choosing a good domain name or web hosting. Although I don’t want you to choose the most expensive domain name or hosting plan either, I just stress that if you go the cheap route you will get what you pay for. Either your hosting plan will have slower performance, or you won’t have enough storage for your files, or the web hosting company will have subpar customer service. And if you find yourself in this situation then you will have to spend more money to resolve the issue. (Except bad customer service as you usually can’t buy a better version of it.)
+
+## How To Buy A Domain Name For Your Business
+
+### What Is A Domain Name?
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Domain_name): “A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. In general, a domain name identifies a network domain, or it represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a web site, or the web site itself or any other service communicated via the Internet.”
+
+Here are some examples of domain names:
+* amazon.com
+* ebay.com
+* newegg.com
+
+### Create An Original Name
+
+A problem that individuals or businesses run into when it comes to their domain name is they create one that’s too similar to another company. Sometimes these names mimic ones held by popular companies which can cause problems. 
+One problem is the public could confuse the new business’ domain name with the popular company. Thus, this could cause brand issues.
+
+The second problem, which could lead to legal issues, is when an individual or business register a domain name that’s almost exactly the same as another company. Here’s an example of that:
+
+Let’s say you decide to register the domain name goog.com. This name is too similar to google.com. And this name could confuse some of Google’s customers to think your website and/or business is related to Google’s products and services. Because of this Google decides to send their Legal team after you because you’re infringing on their trademark and/or brand. And they have done so in the past. [Google sued the owner(s) behind oogle.com in 2012](https://dnattorney.com/google-loses-oogle-com-domain-name-dispute/).
+
+If you think that domain names can’t get a trademark [Nolo discusses how these can](https://www.nolo.com/legal-encyclopedia/domain-names-trademarks-faq.html). If you would like to learn more about this so you and your business don’t run afoul of infringing on another company’s trademark, [Donut](https://www.lawdonut.co.uk/business/contracts-disputes/ip-disputes/domain-name-disputes-faqs) has a great FAQ section about this topic. Also, The Internet Corporation for Assigned Names and Numbers (ICANN) has a [page](https://www.icann.org/resources/pages/help/dndr/udrp-en) devoted to this too. This group coordinates the domain names, among other things, of the Internet.
+
+To create an original name you can use your name and the industry you work in. This works pretty well if you sell services. Let’s say your name is Robert Johnson and you run a HVAC company. You could create a domain name like “johnsonhvac.com” or rjohnsonhvac.com” or johnsonheatingandair.com.”
+
+However, if you operate a business selling goods then you may want to create an original name along whatever goods you’re selling. Let’s say you sell health and beauty products using organic coconut oil. You could create a domain name based around your product line name.
+
+### Use Business Name Generator To Create A Domain Name 
+A great way to create an original domain name if you’re having trouble creating one is to use a business name generator. In doing so you will get a list of business names by entering words suited to your business and/or industry.
+
+Using [BusinessNameGenerator](https://businessnamegenerator.com/), let’s look at the names I get when I enter the following for specific industries:
+
+Education
+* Educatdo 
+* Totorhut 
+* Teachingly
+
+Fitness 
+* Fitnetic 
+* Fitfluent 
+* Workoutpad 
+
+Food & Drink 
+* Smack Burgers 
+* Barscape 
+* Winesy
+
+Music 
+* Musadora 
+* Musdeck 
+* Beatsable 
+
+Retail 
+* Clothinglux 
+* Fashnest 
+* Decorverse
+
+Some of these names were available for purchase while others were already taken. Your results will be different but this is a good option to try.
+
+### When To Buy Your Domain Name
+
+If you are sitting around one day, or standing in line somewhere, or have a dream and the idea of a particular domain name hits you then you need to buy it. Only because these ideas usually don’t come around again.
+
+When you are working toward opening a business then you need to buy your domain name ahead of time. I bought the domain name for my upcoming ecommerce store, [letsallmeat.com](letsallmeat.com), long before I even thought of opening the business.
+
+Yes, there’s the possibility you could change your business name after you bought the domain name. Which is why I suggest to register your domain name for one year when you first start. Domain names aren’t that expensive, and range in price from $8 to $50, depending on the registrar and the Top Level Domain (TLD) chosen. So if you happen to not use that domain in favor of another one then you’re not out that much money.
+
+### How Long To Buy Your Domain Name
+
+When it comes to the length of how long you purchase your domain name the default is 1 year. However, many domain registrars allow you to add years for an additional cost.
+
+The benefit of this is to: 
+1. Save money 
+2. Less likely to forget to renew your name. 
+
+Yep, once you buy a domain name you have to renew it every year. It’s like car registration. 
+
+I used to only buy 1 year terms for my domain names but I’ve recently switched to multi-year terms because the cost savings are better. Yet, it’s fine if you decide to buy only one year plans. 
+
+Finally, I have my domain names set to auto-renew and keep a valid credit card on file. I still get an email from my domain registrar stating it’s time to renew my name, but if I miss that email then I don’t have to worry about forgetting to renew my name. 
+
+What happens if you don’t renew? First, your website stops working because it’s no longer connected to the name. That’s because your domain registrar will move the name back into the pool of availability for others to purchase. And if someone else buys it then you have to buy it from them (if you can). 
+
+### Choose A Generic Top-Level Domain 
+
+Before you search to see if a potential domain name is available, you first must decide which [generic top-level domain (TLD)](https://en.wikipedia.org/wiki/Generic_top-level_domain) you will use. Here’s a short list of generic TLDs currently available from various domain registrars:
+* .com 
+* .net 
+* .org 
+* .dev 
+* .app 
+* .inc 
+* .website 
+
+Most people choose the .com TLD because it’s the most popular. Due to that, sometimes it’s difficult to use a specific name for your website because it’s already taken. If that happens and you really want the name it could be for sale. You will know if you see a “Make Offer” or something similar button. This will start the process of offering to buy the domain name but be warned: You may have to spend a massive amount of money to do so.
+
+### Should You Buy Multiple / All TLDs For Your Chosen Name?
+
+You finally bought your domain name for your websites, let’s use example.com for this scenario. The domain registrar shows you various other TLDs available for your name. Now you’re wondering should you buy example.net and example.org and example.dev because you want to protect your trademark and/or your brand. Should you do that? Is that a great idea?
+ 
+Google, and other major companies, do this because if they waited to buy the other TLDs later someone else could buy that TLDs. People do this because they’re hoping you’ll want to buy it later and they can sell it for a nice profit. This is called [Cybersquatting](https://en.wikipedia.org/wiki/Cybersquatting) (also called Domain Squatting) and there are laws about this in America and in some countries.
+
+Finally, I highly suggest you don’t buy some non-popular TLDs like example.golf or recently launched TLDs. Mostly because they don’t have the name recognition like a .com or a .net.
+
+### When To Purchase A Premium Domain Name
+
+During your search you are bound to come across a Premium domain name. What are those? According to [Namecheap](https://www.namecheap.com/domains/domain-name-search/) Premium domain names “are short domains, often made up of just one word or 3-5 letters. They are also known as ‘aftermarket’ or ‘pre-registered’ domains.” Good examples of these types of names: 
+* google.com 
+* facebook.com 
+* aarp.com
+
+These names are catchy and short, which is gold when it comes to marketing. That’s why I suggest you consider one if you can 1) afford it and 2) it will advertise your brand very well. [Namecheap wrote a blog post](https://www.namecheap.com/blog/pay-big-bucks-aftermarket-domains/) about several companies spending $10,000+ for their premium domain names. While this price tag is expensive for many individuals and/or companies, you can look at the investment as part of building your brand.
+
+### Always Choose WhoisGuard
+
+When you buy a domain name from a domain registrar always elect to enable [WhoisGuard](http://www.whoisguard.com/). Even if the option cost additional money. Why? And what does it do? According to their website: “WhoisGuard avoids this issues by placing our information in whois and provides an option to redirect email and regular mail to the customer’s real address. During the process of transferring the email, we try to avoid obvious junk email and regular mail, thus relieving the customer from junk.”
+
+When you buy a domain name, you have to input the name of owner, the address of the company, and a phone number. That information is publicly available, meaning spammers or stalkers or anyone could call you, spam you, or just bother you. And if you are buying a domain name for personal use or running a home-based business, your personal information would be available too. You don’t want that.
+
+### The Domain Registrar I Recommend
+
+When it comes to buying a domain name I only use [Namecheap](https://www.namecheap.com/). I’ve used them for 16 years (as of the publication of this book) and always get great support from them. And they offer WhoisGuard for free forever.
+
+I also buy other products from them, like SSL certs (which I’ll discuss later in this guide) and web hosting for my WordPress sites.
+
+Finally, Namecheap has very good prices when it comes to domain names. You can get a .com TLD for $8.88 a year! And if you catch one of their sales (which is often) you can get a .com TLD cheaper than that.
+
+## How To Choose The Proper Web Hosting Provider For Your Website 
+
+In this section I’ll give you tips on how to buy the proper web hosting provider for your website. There’s some many providers to choose from and sometimes you can’t go by reviews alone. 
+
+I’ll also compare Managed versus Shared web hosting, which are two of the most popular options and are inexpensive to buy. In that comparison I’ll show the pros and cons of each, and then give my final recommend on which type you should use for your site. 
+
+### What Is Web Hosting? 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Web_hosting_service): “A web hosting service is a type of Internet hosting service that allows individuals and organizations to make their website accessible via the World Wide Web. Web hosts are companies that provide space on a server owned or leased for use by clients, as well as providing Internet connectivity, typically in a data center.”
+
+Web hosting companies have servers in a [data center](https://en.wikipedia.org/wiki/Data_center) and then rent those for customer use. What are [servers](https://en.wikipedia.org/wiki/Server_(computing))? Think of them as bigger and more power computers. Servers have higher-end CPUs, more memory, larger capacity storage disks, and high-bandwidth network ports to allow multiple users access it at once to get the information they need. 
+
+When you purchase a web hosting package, the company takes one of the servers they own and prepares a portion of it for you to use. 
+
+There are different types of web hosting packages: 
+* Managed hosting 
+* Shared hosting 
+* Virtual Private Server (VPS) 
+* Dedicated servers 
+
+In this guide I’m not going to discuss VPS or Dedicated servers because those are usually geared toward high-traffic websites, or experienced owners who want complete control over their server. And these options are the most expensive web hosting packages. 
+
+### Managed Hosting 
+
+This hosting is usually the cheapest package you can buy. It is sometimes advertised as “WordPress Hosting.” It is inexpensive because the web hosting company controls the entire server. You, the tenant on the server, has no control over the operating system used on the server or the software running it. However, you don’t have to do any maintenance on it either. 
+
+Let’s look at the pros and cons: 
+
+**Pros:** 
+* Very inexpensive price plans. 
+* Great for personal blogs or small websites / businesses. 
+* The web hosting company performs all the updates to the servers, including WordPress core updates (not plugins, however). 
+
+**Cons:** 
+* The servers offered usually have lower technical specifications, so if your website grows significantly your performance can suffer. 
+* You do not have access to the back-end applications so you may not have access to cPanel. 
+* If you need SFTP or database access, you may or may not have access to it. If you do have access to it you may have to go through a process to enable it. 
+
+### Shared Hosting 
+
+This hosting is more expensive than managed hosting because you will get more access to certain back-end applications. And these packages offer more CPUs, storage space, and memory. Just like with Managed Hosting the hosting company controls the server and you as the tenant have no control over the operating system or the software running on it. 
+
+**Pros:** 
+* Affordable prices plans. 
+* Great for small & medium business websites. 
+* The web hosting company performs all the updates to the servers, including software update (probably not WordPress core updates, however). 
+* You have access to cPanel, SFTP, and database access. 
+* Some companies offer a website builder program. 
+
+**Cons:** 
+* The cheapest plans can have sparse features, meaning you will have to spend more if you need additional features. 
+* Some companies offer free services with a chosen plan (like domain name or SSL certificates), but those services become non-free after a period of time. 
+
+### Which Hosting Is Right For Your Business Website? 
+
+If you want to build a small business website and don’t want to handle any of the updates (except WordPress updates), then I recommend you purchase Managed Hosting. If your site grows larger and you need more storage space or memory then you can purchase Shared Hosting and transfer everything over. 
+
+However, if you want to run an ecommerce website or your business provides web applications then choose Shared Hosting. Due to the improve servers your sites will perform better. You can’t have a slow website because that will drive your visitors and customers away. 
+
+### The Web Hosting Company I Recommend (And Use) 
+
+When it comes to Managed Hosting I use and recommend [EasyWP](https://www.easywp.com/) by Namecheap. You can start for free for 30 days and there isn’t a commitment if the service doesn’t work out for you. 
+
+There are three packages to choose from: 
+* Starter 
+* Turbo 
+* Supersonic 
+
+If you are just starting out and don’t think your business website will be popular at first then you can begin with the Starter package. However, it may be better to choose the Turbo package because you get more storage space along with more CPUs and memory. Supersonic is great for businesses that require constant uptime along with more storage, CPU, and memory. 
+
+Here are a few features of EasyWP: 
+* Hosted on Namecheap Cloud 
+* Support for any domain name provider: You can buy your domain name from any domain registrar. 
+* Easy-to-use dashboard to manage WordPress websites: You don’t have to spend much time trying to find the information you need. 
+* Safe and secure 
+* Easy backups and restores 
+* SFTP and database access: These allow you to not only transfer files to and from your site, but you can modify or update your database. 
+
+As for Shared Hosting I also use and recommend Namecheap. There are three packages to choose from: 
+* Stellar 
+* Stellar Plus 
+* Stellar Business 
+
+I use Stellar Business for my ecommerce site because it’s the only PCI-compatible hosting package out of the collection. And this package provides not only auto-backups but cloud storage (which promises 100% uptime along with stability and data protection). 
+
+Here are a few features of Shared Hosting: 
+* Unmetered bandwidth: You can have as much traffic coming and going to and from your website. 
+* Free domain name and privacy protection: You can register your domain name for free for the first year. 
+* Free automatic SSL installation: Get a free SSL certificate for the first year. 
+* Free in <24 hours website migration: If you have a website hosted somewhere else you can transfer it to Namecheap and have it up and running under 24 hours. 
+
+This hosting package also works well with WordPress if you don’t want to go the EasyWP route, or if that hosting doesn’t fit your business needs. With Namecheap’s Shared Hosting you can install WordPress with one-click and do all its administrative tasks through [cPanel](https://cpanel.net/). Finally, you will get an email service which allows you to create email accounts and build mailing lists. 
+
+The final reason why I use and recommend Namecheap is their customer service. While you may find other web hosting companies offering cheaper packages their customer service can be lackluster. And when you have an issue with your site or if you have a crucial question you need top-notch service. Every time I’ve contacted Namecheap’s customer service I’ve gotten prompt replies to my questions. Yeah, sometimes I had to wait for several minutes but that’s normal. As for my issues that required additional technical support they were resolved within 24 to 48 hours. 
+
+### Should You Consider Using WordPress.com? 
+
+This guide focuses on you building a website using self-hosted WordPress. However, there is wordpress.com which is Automattic’s solution for those who want to use WordPress but not handle the software’s maintenance. And you don’t have to worry about choosing a web hosting company or need website design knowledge. 
+Here are the pros and cons of wordpress.com: 
+
+**Pros:** 
+* You don’t have to perform any website maintenance as it’s handled by the company. 
+* Very simple website creation through the use of themes and blocks. 
+* Thousands of free plugins available. 
+* Marketing tools like Mailchimp or website analytics tools like Google Analytics are built-in. 
+* You can update your website on your smartphone via the WordPress app. 
+* Free SSL certificate installed so your site is secure. 
+
+**Cons:** 
+* Their plans are more expensive than many Managed and Shared Hosting packages offered by other companies. 
+* To get the additional features, you must pay for them. 
+* If you require priority support, you must choose the more expensive plans. 
+* You can’t remove the WordPress.com branding without paying for more expensive plans. 
+
+Should choose wordpress.com to build your business website? Yes if you want any of the following: 
+* If you need website that just works. 
+* You want to run an ecommerce store and need technical support. 
+* If you don’t feel comfortable with website design or don’t have the time to learn it. 
+
+Now if you go this route prepare to pay more than you would for self-hosted WordPress. Although wordpress.com has a free package you’re not going to get much in terms of features. You will soon find out you’ll need to upgrade to one of the paid packages which can be quite expensive per month. And if you choose the “pay monthly” option you won’t get the free domain name for a year. 
+
+### Should You Use WordPress’ Recommended Hosting Partners? 
+If you don’t go with my web hosting provider recommendation you’ll need to find another. However, there’s so many providers to choose from you’re going to look for reviews online. One place you may look at first is WordPress’ website because they have a section all about hosting. They recommend the following web hosts: 
+* Bluehost 
+* DreamHost 
+* SiteGround. 
+
+In my opinion, Bluehost is expensive, DreamHost is the best economical choice, and SiteGround is also affordable but their plans' features can be scant when compared to DreamHost. Out of the three I would choose DreamHost.
