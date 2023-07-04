@@ -18,5 +18,6 @@ This work is licensed under a
 ---
 
 ## Table of Contents
-### Intro: Why WordPress?
+### [Introduction](https://github.com/brittbot-bgates/create-your-business-website-with-wordpress/blob/main/create_your_business_website_with_wordpress.md#introduction)
 ### Chapter 1: Purchase A Domain Name & Web Hosting
+### Chapter 2: Install The Proper SSL Certificate
