@@ -18,7 +18,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 
 # Table of Contents
 ## [Introduction](#introduction)
-## [Chapter 1](#chapter1): Purchase A Domain Name & Web Hosting
+## [Chapter1](#chapter1): Purchase A Domain Name & Web Hosting
 ## [Chapter 2: Install The Proper SSL Certificate](#chapter2)
 
 ---
