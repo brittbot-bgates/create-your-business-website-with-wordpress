@@ -18,7 +18,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 
 # Table of Contents
 ## [Introduction](#introduction)
-## [Chapter 1: Purchase A Domain Name & Web Hosting](#chapter1)
+## [Chapter 1: Purchase A Domain Name & Web Hosting](#ch)
 ## [Chapter 2: Install The Proper SSL Certificate](#chapter2)
 
 ---
@@ -83,7 +83,7 @@ Finally, if you need to share files (like documents) WordPress allows for that t
 
 WordPress made it very simple to create blog posts and pages with the new WordPress Editor / Gutenberg update in 2018. However, this update divided users during its beta because it introduced major changes on how to create and edit content. And when new editor became the default in WordPress users were highly upset. However, you can re-enable the Classic Editor via a plugin if you so choose. As for me, I really enjoy using the Block Editor. It simplifies the addition of text, headings, images, video, and now even podcasts into your blog posts and/or pages.
 
-# [Chapter 1: Purchase A Domain Name & Web Hosting](#chapter1)
+# [Chapter 1: Purchase A Domain Name & Web Hosting](#ch)
 
 In this step I discuss what a domain name is, how to buy one, and how to choose the proper web hosting provider for your website. This step, in my opinion, is the most important part of your website because you must choose a domain name that is not only easy to remember but is not too long. In addition, the web hosting company you choose can make or break the performance of your site.
 
