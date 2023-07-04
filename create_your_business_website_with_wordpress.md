@@ -17,7 +17,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ---
 
 # Table of Contents
-## [Introduction](#introduction)
+## <a href="#introduction">Introduction</a>
 ## <a href="#chapter1">Chapter 1: Purchase A Domain Name & Web Hosting</a>
 ## <a href="#chapter2">Chapter 2: Install The Proper SSL Certificate</a>
 
