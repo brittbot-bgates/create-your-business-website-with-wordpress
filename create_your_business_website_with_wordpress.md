@@ -21,6 +21,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter1">Chapter 1: Purchase A Domain Name & Web Hosting</a>
 ## <a href="#chapter2">Chapter 2: Install The Proper SSL Certificate</a>
 ## <a href="#chapter3">Chapter 3: Secure Your WordPress Installation</a>
+## <a href="#chapter4">Chapter 4: How To Setup A WordPress Development Environment</a>
 
 ---
 
@@ -486,3 +487,29 @@ Also, you should send these alerts through different methods, such as email and 
 I use WordFence Security for my websites and I get emails whenever someone successfully and unsuccessfully logs in. The same happens whenever I login or make any change or order through my web hosting company.
 
 How to set this up is going to depend on your hosting company. Review their “Knowledge Base” or “Help” section for assistance.
+
+# [Chapter 4: How To Setup A WordPress Development Environment](#chapter4)
+
+In this chapter I will teach you how to setup a WordPress development environment. This is crucial when it comes to building your website so the public will not see your work in progress. Also, you need a development environment so you can test out major updates in the future.
+
+This environment can be remote (on a server on the Internet) or local (using software installed on your computer). For this guide I’m going to focus on installing a local development system on your computer due to its ease and doesn’t require an Internet connection.
+
+You can use the following tools to create a local development system:
+* Local by Flywheel
+* MAMP
+
+## Local by Flywheel
+
+[Local by Flywheel](https://localwp.com/) works on Windows, Mac, and Linux (Debian versions). It is free to use but you do have to sign up to use it.
+
+You’re probably wondering how this software is free with all of the features it offers. Well, the company behind it, Flywheel, sells managed WordPress hosting. Thus, they are hoping that once you use their free product you will then pay the money to transfer your site onto one of their hosting plans. Unfortunately, their plans are quite expensive. The “Tiny” plan is $150 a year and you get scant storage space and bandwidth for that price.
+
+Once you open the software you will create a project and then go through the motions to install WordPress and go through the setup as you normally would on your web hosting company. Upon setup’s completion you will have access to the admin dashboard and can begin customizing your site by choosing a theme, installing plugins, and adding content.
+
+From here, you can view what your website looks like and make tweaks as needed.
+
+## MAMP
+
+[MAMP](https://www.mamp.info/en/windows/) is free software you can install on Windows or [Mac](https://www.mamp.info/en/mac/?m=1629109578&) but you don’t have to sign up to use it. It works pretty much like Local by Flywheel, however the User Interface is different.
+
+There is a non-free professional edition of this software called MAMP PRO. The biggest reason to buy this version is if you need the ability to create separate hosts for each of your projects. If you require that functionality then [please check out their pricing](https://www.mamp.info/en/store/?m=1629117968&).
