@@ -24,6 +24,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter4">Chapter 4: How To Setup A WordPress Development Environment</a>
 ## <a href="#chapter5">Chapter 5: How To Build Your Site And Hide It From Visitors</a>
 ## <a href="#chapter6">Chapter 6: Find A WordPress Theme That Fits Your Industry</a>
+## <a href="#chapter7">Chapter 7: Install These Plugins To Make Your Site Successful</a>
 
 ---
 
@@ -155,7 +156,7 @@ Some of these names were available for purchase while others were already taken.
 
 If you are sitting around one day, or standing in line somewhere, or have a dream and the idea of a particular domain name hits you then you need to buy it. Only because these ideas usually don’t come around again.
 
-When you are working toward opening a business then you need to buy your domain name ahead of time. I bought the domain name for my upcoming ecommerce store, [letsallmeat.com](letsallmeat.com), long before I even thought of opening the business.
+When you are working toward opening a business then you need to buy your domain name ahead of time. I bought the domain name for my upcoming Ecommerce store, [letsallmeat.com](letsallmeat.com), long before I even thought of opening the business.
 
 Yes, there’s the possibility you could change your business name after you bought the domain name. Which is why I suggest to register your domain name for one year when you first start. Domain names aren’t that expensive, and range in price from $8 to $50, depending on the registrar and the Top Level Domain (TLD) chosen. So if you happen to not use that domain in favor of another one then you’re not out that much money.
 
@@ -275,7 +276,7 @@ This hosting is more expensive than managed hosting because you will get more ac
 
 If you want to build a small business website and don’t want to handle any of the updates (except WordPress updates), then I recommend you purchase Managed Hosting. If your site grows larger and you need more storage space or memory then you can purchase Shared Hosting and transfer everything over. 
 
-However, if you want to run an ecommerce website or your business provides web applications then choose Shared Hosting. Due to the improve servers your sites will perform better. You can’t have a slow website because that will drive your visitors and customers away. 
+However, if you want to run an Ecommerce website or your business provides web applications then choose Shared Hosting. Due to the improve servers your sites will perform better. You can’t have a slow website because that will drive your visitors and customers away. 
 
 ### The Web Hosting Company I Recommend (And Use) 
 
@@ -301,7 +302,7 @@ As for Shared Hosting I also use and recommend Namecheap. There are three packag
 * Stellar Plus 
 * Stellar Business 
 
-I use Stellar Business for my ecommerce site because it’s the only PCI-compatible hosting package out of the collection. And this package provides not only auto-backups but cloud storage (which promises 100% uptime along with stability and data protection). 
+I use Stellar Business for my Ecommerce site because it’s the only PCI-compatible hosting package out of the collection. And this package provides not only auto-backups but cloud storage (which promises 100% uptime along with stability and data protection). 
 
 Here are a few features of Shared Hosting: 
 * Unmetered bandwidth: You can have as much traffic coming and going to and from your website. 
@@ -334,7 +335,7 @@ Here are the pros and cons of wordpress.com:
 
 Should choose wordpress.com to build your business website? Yes if you want any of the following: 
 * If you need website that just works. 
-* You want to run an ecommerce store and need technical support. 
+* You want to run an Ecommerce store and need technical support. 
 * If you don’t feel comfortable with website design or don’t have the time to learn it. 
 
 Now if you go this route prepare to pay more than you would for self-hosted WordPress. Although wordpress.com has a free package you’re not going to get much in terms of features. You will soon find out you’ll need to upgrade to one of the paid packages which can be quite expensive per month. And if you choose the “pay monthly” option you won’t get the free domain name for a year. 
@@ -398,9 +399,9 @@ Finally, Extended Validation certificates acts just like the OV but the security
 
 For personal websites like blogs I would go with a DV as it’s inexpensive (or free if you choose to use Let's Encrypt). That’s what I use for my blogs and other websites that don’t have a login portal for customers.
 
-If you are building an ecommerce website I highly suggest you choose either a OV or EV certificate. Although these will cost more and require you to submit documentation regarding the ownership of your business, they can build higher trust within your visitors upon landing on your site. Also, these certificates provide higher warranties. Depending on where you purchase your SSL certificates warranties range from $100,000 to over $1,000,000.
+If you are building an Ecommerce website I highly suggest you choose either a OV or EV certificate. Although these will cost more and require you to submit documentation regarding the ownership of your business, they can build higher trust within your visitors upon landing on your site. Also, these certificates provide higher warranties. Depending on where you purchase your SSL certificates warranties range from $100,000 to over $1,000,000.
 
-For my ecommerce store I went with an OV certificate. Although I had to submit a form online about my business so the security company could validate it the process wasn’t difficult. You just have to make sure your business or organization is registered in some well-known databases beforehand. If you don’t, it will delay the issuance of your certificate.
+For my Ecommerce store I went with an OV certificate. Although I had to submit a form online about my business so the security company could validate it the process wasn’t difficult. You just have to make sure your business or organization is registered in some well-known databases beforehand. If you don’t, it will delay the issuance of your certificate.
 
 Finally, if you’re building a website that will have a login portal for customers you also want to invest in a OV or EV certificate. Again, you need to encrypt customer’s sensitive data, like login credentials, so bad actors can’t grab them.
 
@@ -564,7 +565,7 @@ When I was working at a startup that developed and maintained WordPress websites
 
 So if you want to go this route I suggest you research the Premium Themes available on [Theme Forest](https://themeforest.net/category/wordpress) (also called Envato Market.) Yes, in the previous section I provided a link to the official WordPress Commercial Themes but Theme Forest is a legitimate company too. And they check all submitted themes for quality too.
 
-You can filter themes based on a particular category (like Corporate, ecommerce, Retail, etc.) and you can view themes sorted by price. The website is great because it shows you the weekly sales of each theme, along with its rating.
+You can filter themes based on a particular category (like Corporate, Ecommerce, Retail, etc.) and you can view themes sorted by price. The website is great because it shows you the weekly sales of each theme, along with its rating.
 
 As for the prices, Premium themes will range in price from $20 to $80. Depending on the developer, you may purchase the theme through a yearly subscription or a one-time cost.
 
@@ -576,6 +577,221 @@ If you are searching for themes on the [official WordPress website](https://word
 
 The search box allows you to search for themes using various terms. This avenue works best if you use specific search terms like “shop,” “retail,” or “restaurant.” Mostly because themes are usually named or titled with the industry or category designations.
 
-The Feature Filter allows you to search for specific layouts, features, or subjects. For example: You only want to use a grid layout instead of columns and this filter will return themes fitting that layout. If you need certain features like accessibility, full width, or translation support then Feature Filter helps you find those themes. Finally, the subject filter will only show themes in particular categories like ecommerce or food & drink.
+The Feature Filter allows you to search for specific layouts, features, or subjects. For example: You only want to use a grid layout instead of columns and this filter will return themes fitting that layout. If you need certain features like accessibility, full width, or translation support then Feature Filter helps you find those themes. Finally, the subject filter will only show themes in particular categories like Ecommerce or food & drink.
 
 Now, if you’re searching for themes on Theme Forest you only have access to a search box and browsing themes by category.
+
+# [Chapter 7: Install These Plugins To Make Your Site Successful](#chapter7)
+
+At this point your WordPress installation is installed, you’ve chosen your theme, and the default plugins are the only ones installed. In this chapter I’ll tell you which plugins to install to make your website successful.
+
+## The Default Plugins Pre-Installed On Your Installation
+
+You will find the following plugins probably installed when you browse your installation:
+* Akismet: A spam detection and prevention plugin. This requires a non-free subscription to work properly.
+* Jetpack: A security plugin that also provides backup, speed improvements, and marketing tools. Some features are non-free and require a subscription to work properly.
+* A cache plugin: Depending on your web hosting company a cache plugin will probably be installed to improve the speed of your site. Sometimes you cannot uninstall these.
+
+Should you deactivate and/or delete these plugins? It depends.
+
+Akismet is a decent plugin if you have a comment section on your website as it will help block spam comments. Personally I don’t use it because I use a different comment system that has built-in spam protection.
+
+As for Jetpack I like this plugin because it does provide various security and marketing features. I use it on my Ecommerce site because it monitors downtime, meaning if my site goes down for any reason Jetpack will send me an email. Finally, I like how several of these features are free.
+
+Finally, if your web hosting company installs a cache plugin I would suggest you keep it installed. These help the speed and performance of your website which will keep your visitors happy and can help your SEO rankings.
+
+## The Plugins You Should Install On Your Website
+
+WordPress plugins falls into the following categories:
+* Comments
+* Contact Forms
+* Ecommerce
+* Marketing
+* Page Builder
+* Security
+* SEO
+* Website Analytics
+
+Let’s discuss which plugins you should install from each category.
+
+### Comments
+
+The comment system built-into WordPress is very basic and doesn’t offer any spam protection. Also, its login system is simple and doesn’t allow for visitors to login with their social media account. If comments are going to be important to your site you need to replace the basic comment system with a plugin. Here are some popular choices:
+* Disqus
+* Jetpack
+* wpDiscuz
+
+**Disqus**
+
+[Disqus](https://disqus.com/) is a popular comment system you’ve probably seen on many websites. However, the plugin has seen many changes throughout the years. While you can still use it to replace the built-in comment system now you can use it to review your site’s analytics and make money from your content.
+
+While this plugin is free to download and use the free edition comes with basic functionality. And you will have to deal with ads which you may not want on your site. So if you want to remove the ads and get more features you will have to pay for it. While I’m fine with paying for plugins because many offer great benefits, Disqus is quite expensive. The “Plus” plan is $12 per month while the “Pro” plan is $115 a month!
+
+I don’t use Disqus and it’s not a comment plugin I suggest to others. However, please do your due diligence to see if this plugin works for you. You may need the advanced moderation tools and custom reactions which the software offers.
+
+**Jetpack**
+
+[Jetpack Comments](https://jetpack.com/support/comments/) installs a new comment system that has social media logins. This allows your readers to leave a comment by using one of their social media accounts (WordPress.com, Twitter, Facebook, or Google).
+
+Unlike Disqus this plugin is free to use and doesn’t have any paid upgrades. While I don’t use this comment system it appears to be a good solution if you want a free comment system with social media logins.
+
+**wpDiscuz**
+
+The final plugin is the one I use on my blogs and recommend to others: [wpDiscuz](https://wpdiscuz.com/). The developers state this is WordPress #1 comment plugin. It has large install base and is highly rated. In addition, it provides awesome user engagement features and looks pretty snazzy.
+
+This plugin provides 100 core features for free however there are [extensions](https://wpdiscuz.com/extend-wpdiscuz/) you can buy to extend the software’s functionality. If you do go this route then I suggest you buy the bundle because you will save money.
+
+### Contact Forms
+
+You will need a contact form so your visitors and customers can ask you a question or get a quote. Here are some popular choices:
+* Contact Form 7
+* WPForms
+
+**Contact Form 7**
+
+I used [Contact Form 7](https://contactform7.com/) for years but no longer. It worked very well for me but like others I moved on from this plugin. Why? It has a learning curve and doesn’t have many features built-in. If you want to improve the plugin then you have to download additional plugins.
+
+However, I still recommend this plugin because not only is it free it does handle basic forms well. Finally, the developer continues to keep the plugin updated.
+
+**WPForms**
+
+On the other end of the spectrum is [WPForms](https://wpforms.com/) which has over 100 templates. This is the plugin I use now. If you need a contact form this plugin most likely has a template for it. In addition, this software has a drag-and-drop builder that is easy to use.
+
+The only downside to WPForms is the pricing. The “Basic” plan is $79 a year. If you want to integrate email marketing like Mailchimp or Sendinblue then you have to upgrade to the “Plus” plan which is $199.00 a year. Finally, if you want your forms to include a payment option like PayPal or Stripe then you have to buy the “Pro” plan which is $399.00 a year.
+
+### Ecommerce
+
+These plugins transform your basic WordPress website into a full-fledged online store. Here are some popular choices:
+* Easy Digital Downloads
+* MemberPress
+* Shopify
+* WooCommerce
+
+**Easy Digital Downloads**
+
+If you are building a website to sell digital products like music, ebooks, or software then [Easy Digital Downloads](https://easydigitaldownloads.com/) is a great choice for your website. You need a way for your customers to download their digital purchases and handle customers who want to redownload their purchases.
+
+Now the plugin is free to download and use but you may want to invest in their “Pass” so you can use extensions to improve the plugin’s functionality. If you buy the extensions individually they are quite expensive. The passes range in cost from $99 to $499.
+
+**MemberPress**
+
+Your business may be one where you sell memberships and you want a website that allows easy facilitation for you and your customers. [MemberPress](https://memberpress.com/) is a popular choice which allows you to charge your customers to access your content and create/manage subscriptions.
+
+This is a non-free plugin and you will have to buy a yearly subscription to access all of its features. The Basic plans starts at $279 and is probably the best choice upon starting out. You will get the ability to have unlimited members and courses as well as Stripe and PayPal integration.
+
+**Shopify**
+
+Already using Shopify but want to use it in WordPress too? Well you can do that through the [Shopify Buy Button](https://www.shopify.com/buy-button/wordpress). You can sell on your website without much setup for $9 a month. According to its website: “The Shopify Buy Button creates a standalone mini-storefront on your WordPress blog or website and connects directly with Shopify’s secure shopping cart platform. All you need is a product to sell and you’re ready to launch. And yes – it’s fully customizable to match your brand’s look.”
+
+**WooCommerce**
+
+For those wanting to build a full-fledged Ecommerce store using WordPress then [WooCommerce](https://woocommerce.com/) is the plugin for you. This is the plugin I use to run my store, [Let’s All Meat](letsallmeat.com). You can use this plugin to create just about any online store.
+
+WooCommerce is free to download and it comes with the Storefront theme. However, like previous plugins, you will need to spend money to add more features you’ll probably need for your online store. If you want to use the Storefront theme then I highly suggest you invest in the [Storefront Extensions Bundle](https://woocommerce.com/products/storefront-extensions-bundle/). It is $69 but it allows you to customize the theme without any coding knowledge. However, you can purchase other themes that fit your industry.
+
+### Marketing
+
+You need to spend some time and energy marketing your website so you can bring in visitors and potential customers. The following plugins will help with that effort:
+* Email Marketing Plugins
+* Social Media Plugins
+
+**Email Marketing Plugins**
+
+This is a collection of plugins that depend on what email marketing service you use. It could be [Sendinblue](https://www.sendinblue.com/plugins/wordpress/), [Mailchimp](https://mailchimp.com/integrations/wordpress/), [Newsletter](https://www.thenewsletterplugin.com/), [HubSpot](https://www.hubspot.com/products/wordpress), or others.
+
+Upon installing one of these plugins into your website you will gain the ability to track information about your visitors and/or customers, send out newsletters, or collect information for mailing lists.
+
+**Social Media Plugins**
+
+This is a collection of plugins for whatever social media platforms you use. You will find plugins for [Facebook](https://www.facebook.com/business/help/881403525362441) or [Google](https://sitekit.withgoogle.com/) or a plugin that delivers your content to multiple platforms at once. That could be [Smash Balloon](https://smashballoon.com/) or [WordPress to Buffer](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/).
+
+Finally, you need to install a plugin that allows your visitors or customer to share your page or post or product to their social media accounts. The Jetpack plugin can do this as well as [AddtoAny](https://www.addtoany.com/).
+
+### Page Builder
+
+These plugins allow you to customize WordPress’ layout easily, usually through drag-and-drop. Without these plugins you would need extensive coding knowledge. Here are some popular choices:
+* Divi
+* Elementor
+
+**Divi**
+
+[Divi](https://www.elegantthemes.com/gallery/divi/) brands itself as the “most popular WordPress theme in the world and the ultimate WordPress page builder.” This page builder plugin replaces the WordPress post editor with a visual editor, allowing you to drag-and-drop to create beautiful sites without programming experience. In addition, this plugin allows you to build responsive websites so your site will appear perfectly on mobile devices.
+
+Divi isn’t cheap, however. If you choose the yearly subscription you’ll pay $89. However, you can choose the “Lifetime Access” option for $249. For the price you will get the Divi Theme Builder, WooCommerce Modules, hundreds of pre-built websites, and various marketing features.
+
+**Elementor**
+
+[Elementor](https://elementor.com/) is another popular page builder, which, like Divi, replaces the WordPress post editor with a visual editor. It also has drag-and-drop website building. And like the previous plugin it comes with marketing solutions and various built-in widgets and theme elements.
+
+Elementor’s pricing is different than Divi as you will pay a license fee depending on the number of websites you want to build with it. The “Essential” plan is $49 per year and is for one website. However, if you decide to use this guide to start building websites for others then you will need to consider investing into the “Advanced” or “Expert” plans as you get licenses for three websites and twenty-five websites respectively.
+
+### Security
+
+I already covered how important security is for your web hosting account and your WordPress installation. Here I’ll discuss some popular plugin choices to help you secure your site:
+* Jetpack
+* Sucuri Website Application Firewall
+* Wordfence
+
+**Jetpack**
+
+[Jetpack](https://jetpack.com/support/security-features/) has various security features built-in for free and others you have to purchase, such as downtime monitoring, brute force attack protection, and secure sign-on.
+
+However, if you want the plugin to scan your website for any malware or have it backup your files then you have to subscribe to one of their plans. Frankly, there’s too many plans that Jetpack offers to list here so check out their website for a comparison.
+
+**Sucuri Website Application Firewall**
+
+[Sucuri Website Application Firewall](https://sucuri.net/website-firewall/) (WAF) is a plugin that does the following
+* Instantly Block Hackers
+* DDoS Mitigation and Prevention
+* Virtual Patching and Hardening
+* Protect Brand Reputation
+* Prevent Zero-Day Exploits
+
+This firewall protects your WordPress installation from bad actors and the pricing for this plugin is reasonable for the protection you’re buying. The “Basic” plan is $199.99 a year and the “Pro” plan which is 299.99 per year.
+
+**Wordfence**
+
+[Wordfence](https://www.wordfence.com/) is a WAF like Sucuri and protects your site from malware. Unlike Sucuri, Wordfence runs on your server not in the cloud because the former provides better protection. Mostly because Cloud firewalls can be bypassed. In addition to those features, Wordfence will check your WordPress core files, themes, and plugins for malware.
+
+This is the plugin I use on all my websites. It does have a free version which provides all the benefits of the “Premium” version except the real-time features (like firewall rule updates and IP Blocklist). I bought the “Premium” version for my online store and one license runs for $119. If you buy more licenses you get better discounts, or if you buy a multi-year license you also get a discount.
+
+### SEO
+
+You need to work on getting your website listed in search engines and there’s a very popular plugin that will do just that:
+* Yoast SEO
+
+[Yoast SEO](https://yoast.com/) is the plugin I use on all my sites. It helps you not only develop excerpts of your blog posts so they show up properly in search engine results, but Yoast SEO also provides suggestions on how to properly format your posts to grab readers’ attention.
+
+The company also provides an extensive learning section where you can learn all about SEO. Although this plugin is free to use there is a premium version that offers more benefits. I haven’t invested in this version because the free edition provides all the SEO functions I need.
+
+### Website Analytics
+
+You need to verify that people are actually visiting your website, and determine what actions they take on your site. Here are some popular choice:
+* ExactMetrics
+* GA Google Analytics
+* Jetpack
+* MonsterInsights
+
+**ExactMetrics**
+
+[ExactMetrics](https://www.exactmetrics.com/) is a premium, advanced Google Analytics plugin that’s easy to set up and provides a dashboard so you can read your stats without going to Google Analytics. The plugin also tracks Ecommerce (by integrating with WooCommerce) and you can do A/B testing with Google Optimize.
+
+As for pricing you can tell it’s going to be pricey when the brand states it’s premium. The starting plan, “Plus,” runs $199.00 a year. However, if you need Ecommerce support or want to track more websites then you have to upgrade to the “Pro” plan for $399.00 a year.
+
+**GA Google Analytics**
+
+[GA Google Analytics](https://wordpress.org/plugins/ga-google-analytics/#description) is a free plugin that allows you to add your Google Analytics code into your website. You can use an Universal Analytics (UA) tag or a Global Site Tag. And it supports Google Analytics 4.
+
+I use this plugin on my sites because it offers all the features I want and I don’t mind visiting Google Analytics to view my stats. So if you’re basic like me then this plugin could work very well for you.
+
+**Jetpack**
+
+Jetpack provides site stats for free. And you only have to click one button to enable it. The dashboard for the site stats are pretty simple as you can view the number of hits your site got daily, popular times, geographic locations, and search terms. Finally, this part of the plugin also informs you what your popular blog posts are.
+
+While this feature is nice I would suggest to use Google Analytics instead because you will get more in-depth information about your website visitors.
+
+**MonsterInsights**
+
+[MonsterInsights](https://www.monsterinsights.com/) states it’s the “best WordPress analytics plugin” and it does have a huge install base of over 3 million. Just like ExactMetrics you will get a dashboard that shows your stats without having you to visit the Google Analytics website. The plugin also provides real-time stats, Ecommerce tracking, affiliate link tracking, and much more.
+
+Again, like ExactMetrics, you’re going to have to pay for these features. The “Plus” plan costs $199.00 and provides many standard features most website owners will need. You can upgrade to the “Plus” plan for $399.00 for advanced features (like Ecommerce support) and to get additional licenses.
