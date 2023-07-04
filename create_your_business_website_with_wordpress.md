@@ -16,7 +16,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 
 ---
 
-# Introduction
+# [Introduction](#introduction)
 
 ## About The Author
 
