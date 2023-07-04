@@ -22,6 +22,7 @@ Cover Picture: [Striving Blogger](https://unsplash.com/@strivingblogger?utm_sour
 ## <a href="#chapter2">Chapter 2: Install The Proper SSL Certificate</a>
 ## <a href="#chapter3">Chapter 3: Secure Your WordPress Installation</a>
 ## <a href="#chapter4">Chapter 4: How To Setup A WordPress Development Environment</a>
+## <a href="#chapter5">How To Build Your Site And Hide It From Visitors</a>
 
 ---
 
@@ -513,3 +514,21 @@ From here, you can view what your website looks like and make tweaks as needed.
 [MAMP](https://www.mamp.info/en/windows/) is free software you can install on Windows or [Mac](https://www.mamp.info/en/mac/?m=1629109578&) but you don’t have to sign up to use it. It works pretty much like Local by Flywheel, however the User Interface is different.
 
 There is a non-free professional edition of this software called MAMP PRO. The biggest reason to buy this version is if you need the ability to create separate hosts for each of your projects. If you require that functionality then [please check out their pricing](https://www.mamp.info/en/store/?m=1629117968&).
+
+# [Chapter 5: How To Build Your Site And Hide It From Visitors](#chapter5)
+
+In this section I will tell you how to build your website directly on the storage space you bought from your web hosting company and hide it from visitors. You can choose this option if you don’t want to setup a local development environment on your computer. I choose this option because I rather test my site on the actual hardware it’s going to be running on constantly instead of my computer.
+
+## Enable Maintenance Mode Through Your Web Hosting Provider
+
+Many web hosting providers offer some type of maintenance mode (sometimes called a “Coming Soon” page) which will hide your site from visitors. Instead, they will see a very simple page and/or greeting like "We'll be back soon" or "Page under construction." Depending on your web hosting provider the maintenance mode or Coming Soon page can be more colorful.
+
+To find out how to enable this mode check the “Help” section or the “Knowledge Base” of your web hosting company. Many have step-by-step instructions.
+
+## Enable Maintenance Mode With A Plugin
+
+Choose this option if you don’t like the Coming Soon page provided by your hosting company, or if you would like to have more control over how the page appears to your visitors. And maintenance mode plugins can provide other benefits like allowing visitors to sign up to be notified when the site is live or have a chatbot talk to visitors.
+
+The plugin I use that offers these features is [LightStart - Maintenance Mode, Coming Soon and Landing Page Builder](https://wordpress.org/plugins/wp-maintenance-mode/). It allows you to create a page telling visitors your site is down for maintenance or a custom Coming Soon page. And you still have access to the admin dashboard so you can configure your site and add content.
+
+The plugin’s settings allows you to display a countdown on your site which is a great way to buy excitement from your visitors. Or you can create a subscription form so you can collect the contact details from your interested visitors so you can notify them when your site is live. Finally, you can enable the chatbot to “speak” with your visitors using a set script you can create. Or use the pre-defined template provided by the plugin.
